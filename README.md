@@ -108,8 +108,8 @@ We use a variety of tools to facilitate effective communication.
 We communicate with radical candor, and we are supportive and care for one-another.
 With an improvement mindset, communication becomes fun and easy.
 
-**Slack**
-We use slack for the majority of our communication.
+**Discord**
+We use discord for the majority of our communication.
 We make sure our posts are appropriate for their given channel topic.
 Private messages are a good way to receive quick answers.
 When a quick answer is not possible, we will switch communication modes to an in-person or zoom discussion.
